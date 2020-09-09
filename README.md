@@ -1,5 +1,3 @@
-# Practica Python
-
 ## Acerca del contenido
 
 Este repositorio es un intento de mejorar mi conocimiento de python. 
@@ -9,7 +7,7 @@ Siendo que el repo empieza basicamente de cero conocimiento, seguramente el codi
 Y como justamente es un ejercicio, no voy a editar los ejercicios una vez que esten terminados.
 
 ## Material
-Los ejercicios pueden encontrarse en la carpeta [PDF](https://github.com/loki2236/Python-Practice/pdf)
+Los ejercicios pueden encontrarse en la carpeta [PDF](https://github.com/loki2236/Python-Practice/tree/master/pdf)
 
 Al ser varios materiales (e ir agregando mas a medida que voy encontrando) cada ejercicio tendra su consigna comentada en el principio del archivo.
 
